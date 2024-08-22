@@ -1,1 +1,1 @@
-# EDR-Project
+# EDR Project
